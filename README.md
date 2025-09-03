@@ -47,3 +47,5 @@ Sales more than **doubled**, driven by strong demand for **clothing**, especiall
 Autumn was the **most profitable season**.  
 
 👉 To sustain growth, the business should continue focusing on **top-performing products, customer preferences, and seasonal trends**.  
+
+ You can also view the full dashboard here: [SALES Dashboard.pdf](SALES%20Dasboard.pdf)  
