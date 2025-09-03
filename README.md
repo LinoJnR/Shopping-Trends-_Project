@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img alt="Analytics Dashboard" width="1000" src="https://evyom.com/wp-content/uploads/2020/05/analytics-app.gif">
+  <img alt="Analytics Dashboard" width="1000" src="Capture.PNG">
 </p>
 
 ## 📊 Sales Summary  
